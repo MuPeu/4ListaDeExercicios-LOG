@@ -1,0 +1,10 @@
+package exercicios;
+
+public class ExD_Quadrado {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

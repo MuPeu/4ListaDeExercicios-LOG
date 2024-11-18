@@ -1,0 +1,12 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class ExB_Multiplicacao {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

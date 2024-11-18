@@ -1,0 +1,26 @@
+package exercicios;
+
+import java.util.Scanner;
+
+public class ExC_Subtração {
+
+	public static void main(String[] args) {
+		//Declaração de Variaveis
+		int i;
+		float A[] = new float[20];
+		float B[] = new float[20];
+		float C[] = new float[20];
+		
+		Scanner sc = new Scanner(System.in);
+		
+		//Entrada
+		System.out.println("Digite os 20 primeiros números:");
+		
+		for(i=0; i<8; i++) {
+			A[i] = sc.nextInt();
+			
+		}
+
+	}
+
+}
